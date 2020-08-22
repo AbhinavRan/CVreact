@@ -2,7 +2,7 @@
   "name": "Abhinav-personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AbhinavRan.github.io/Porthfolio",
+  "homepage": "http://AbhinavRan.github.io/CvReact",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.2.0",
