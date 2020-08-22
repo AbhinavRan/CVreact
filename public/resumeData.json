@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Abhinav Ranjan",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "abhinavranjan334@gmail.com",
+    "phone": "9142103209",
+    "address":{
+      "street":"Ormanjhi",
+      "city":"Ranchi",
+      "state":"Jharkhand,",
+      "zip": ""
+    },
+    "website": "",
+    
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/abhinav.ranjan.16/",
+        "className":"fa fa-facebook"
+      },
+    
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abhinav-ranjan-242a5b116/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/__a_b_h_i_n_a_v___/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AbhinavRan",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/WFSM0Eg5jprf",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Chandigarh University",
+        "degree":"Bachelor's in Engineering",
+        "graduated":"July 2020",
+        "description":"Full Time course, Major:Computer Science "
+      },
+      {
+        "school":"Star International School",
+        "degree":"Higher Secondry Education",
+        "graduated":"March 2016",
+        "description":"Science Major(Physics, Chemistry, Mathematics)"
+      }
+    ],
+    "work":[
+      {
+        "company":"BSNL(ARTTC), Ranchi",
+        "title":"Web Development Trainee ",
+        "years":"June 2018 - July2018",
+        "description":"Created various Web-Applications, APIs and Websites using PHP as backend, Bootstrap in frontend and used MySQL as database."
+      },
+      {
+        "company":"CHANDIGARH UNIVERSITY",
+        "title":"Bachelor's of Engineering ",
+        "years":"2016 - 2020",
+        "description":"A loads of project, Various programming languages &frameworks."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"30%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+
+      
+     
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "Courses":{
+    "Courses":[
+      {
+        "text ":"Introduction to Cybersecurity",
+        "user":"Click to Verify"
+      },
+      {
+        "text":" Front-End Web UI Frameworks and Tools: Bootstrap 4",
+        "user":"Click to Verify"
+      }
+
+    ]
+  }
+}
